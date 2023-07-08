@@ -1,3 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1AFF00&height=120&section=header"/>
+
+
 </div>
 <br>
 <div align="center">
@@ -20,3 +23,5 @@
 <a href="https://wa.me/5493873687620"/>
 <img src="https://img.shields.io/badge/👑_Ego_Official_Creator_👑-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1AFF00&height=120&section=footer"/>
