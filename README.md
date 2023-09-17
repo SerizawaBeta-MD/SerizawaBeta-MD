@@ -16,7 +16,7 @@
 
 > "Esta es una cuenta en donde puedes ser un participante bot, para tener mas experiencia en WhatsApp, telegram, y entre otras cosas.
 ### 👑 Los bots estan en otras cuentas de Github.
-### 😄 Esta psrte tambien nos dedicamos a presentar a los demas creadores.
+### 😄 Esta parte tambien nos dedicamos a presentar a los demas creadores.
 ### 🛡️ Todos los creadores de esta cuenta, los encontraras aqui.
 > Si quieres contactarme, solo lo puedes haver por Whatsapp, Telegram, o Facebook.
   
