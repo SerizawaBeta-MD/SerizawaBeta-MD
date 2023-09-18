@@ -63,7 +63,6 @@
   - [x] **¿Cuenta vinculada?**<br>
   _Esta cuenta esta vinculada con la cuenta de "Ego_Oficial_Creator", y con el propio bot de: [`🛡️ Guardian Bot MD 🛡️`](https://api.whatsapp.com/send?phone=+5493873650768)._
   </details>
-----
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00E7FF&height=120&section=footer"/>
