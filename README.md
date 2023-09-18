@@ -76,7 +76,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=20&duration=4000&color=006BFF&center=falso&vCenter=falso&lines=Numero+oficial+de+la;SubCreatora+Amy🍰.">
 
-### `🧁 𝑴𝑨𝑵𝑮𝑨𝑹𝑨 𝑶𝑭𝑰𝑪𝑰𝑨𝑳 🧁`
+### `🧁 𝑨𝑴𝒀 𝑶𝑭𝑰𝑪𝑰𝑨𝑳 🧁`
 - Creador:
 <a href="https://wa.me/5493873452653" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
 
