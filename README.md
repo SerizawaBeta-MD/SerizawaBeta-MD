@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/✅ Oficial_Ayudante_Bots ✅-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 
 #### '╭═══════════════⟬◊⟭═══════════════╮'
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1AFF00&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00E7FF&height=120&section=header"/>
 
 [![Picsart-23-09-18-10-40-33-541.jpg](https://i.postimg.cc/qRpzkJ82/Picsart-23-09-18-10-40-33-541.jpg)](https://postimg.cc/Jyd1xWYh)
 
@@ -54,9 +54,17 @@
 
 <a href="https://github.com/Atsushi321/Mirada-Ajena-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Atsushi321&repo=Mirada-Ajena-MD&theme=merko)</a>
 
+<details>
+<summary><b>✅Cuenta oficial y vinculados✅</b></summary>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1AFF00&height=120&section=footer"/>
-####  '╰═══════════════⟬◊⟭═══════════════╯'
+  - [x] **✅ Mangara Oficial**<br>
+  _Para comunicarte con el SubCreador, puedes hacer clik aqui:︎︎︎ [`✅ Sub-Mangara ✅`](https://api.whatsapp.com/send?phone=+5493873687620), para pedir el codigo de instalación automática para termux, o tambien lo puede pedir en `Guardian Bot MD` justamente en este apartado︎︎︎: [`🛡️Guardian Bot MD 🛡️`](https://api.whatsapp.com/send?phone=+5493873650768)._
+  
+  - [x] **¿Cuenta vinculada?**<br>
+  _Esta cuenta esta vinculada con la cuenta de "Ego_Oficial_Creator", y con el propio bot de: [`🛡️ Guardian Bot MD 🛡️`](https://api.whatsapp.com/send?phone=+5493873650768)._
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00E7FF&height=120&section=footer"/>
 
 ### :hammer_and_wrench:Mis estudios de programación se basan en estos proyectos:
 
