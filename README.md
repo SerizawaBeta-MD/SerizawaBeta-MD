@@ -32,10 +32,13 @@
 <img src="https://img.shields.io/badge/👑 Asistencia_Bots 👑-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 
 <a href="http://wa.me/5493873388102"/>
-<img src="https://img.shields.io/badge/🛡️ Guardian-Bot-MD 🛡️-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/🛡️ Guardian_Oficial 🛡️-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 
 <a href="http://wa.me/5493873452654"/>
 <img src="https://img.shields.io/badge/🛡️ Guardian_Asistencia 🛡️-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+
+<a href="http://wa.me/5493873452636"/>
+<img src="https://img.shields.io/badge/✅ Oficial_Ayudante_Bots ✅-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 
 ### :hammer_and_wrench:Mis estudios de programación se basan en estos proyectos:
 
