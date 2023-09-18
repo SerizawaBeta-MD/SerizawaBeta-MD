@@ -67,6 +67,35 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00E7FF&height=120&section=footer"/>
 
+#### '╭═══════════════⟬◊⟭═══════════════╮'
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FD75FF&height=120&section=header"/>
+
+[![ed6baa366e56ac2ba7126b73e3f0fae9.gif](https://i.postimg.cc/xCCWhPnr/ed6baa366e56ac2ba7126b73e3f0fae9.gif)](https://postimg.cc/Tyz7WgKQ)
+
+
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=20&duration=4000&color=006BFF&center=falso&vCenter=falso&lines=Numero+oficial+de+la;SubCreatora+Amy🍰.">
+
+### `🧁 𝑴𝑨𝑵𝑮𝑨𝑹𝑨 𝑶𝑭𝑰𝑪𝑰𝑨𝑳 🧁`
+- Creador:
+<a href="https://wa.me/5493873452653" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
+
+<a href="https://github.com/Oficial-Amy750/Krul-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Oficial-Amy750&repo=Krul-Bot-MD&theme=merko)</a>
+
+<details>
+<summary><b>✅Cuenta oficial y vinculados✅</b></summary>
+
+  - [x] **🌹 Amy Oficial**<br>
+  _Para comunicarte con la SubCreadora, puedes hacer clik aqui:︎︎︎ [`🌸 Sub-Amy 🌸`](https://api.whatsapp.com/send?phone=+5493873687620)
+  
+  - [x] **¿Cuenta vinculada?**<br>
+  _Esta cuenta esta vinculada con la cuenta de "Ego_Oficial_Creator", y con el propio bot de: [`🛡️ Guardian Bot MD 🛡️`](https://api.whatsapp.com/send?phone=+5493873650768)._
+  </details>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FD75FF&height=120&section=footer"/>
+  
+
+
 ### :hammer_and_wrench:Mis estudios de programación se basan en estos proyectos:
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
