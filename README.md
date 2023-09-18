@@ -56,7 +56,7 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1AFF00&height=120&section=footer"/>
-#### '╰═══════════════⟬◊⟭═══════════════╯'
+####  '╰═══════════════⟬◊⟭═══════════════╯'
 
 ### :hammer_and_wrench:Mis estudios de programación se basan en estos proyectos:
 
