@@ -40,8 +40,9 @@
 <a href="http://wa.me/5493873452636"/>
 <img src="https://img.shields.io/badge/✅ Oficial_Ayudante_Bots ✅-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 
-## '╭═══════════════⟬◊⟭═══════════════╮'
+#### '╭═══════════════⟬◊⟭═══════════════╮'
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1AFF00&height=120&section=header"/>
+
 [![Picsart-23-09-18-10-40-33-541.jpg](https://i.postimg.cc/qRpzkJ82/Picsart-23-09-18-10-40-33-541.jpg)](https://postimg.cc/Jyd1xWYh)
 
 
@@ -51,13 +52,11 @@
 - Creador:
 <a href="https://wa.me/51947454367" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="WhatsApp"></a>
 
-<a href="https://github.com/Atsushi321">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Atsushi321&theme=merko)</a>
-
-
+<a href="https://github.com/Atsushi321/Mirada-Ajena-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Atsushi321&repo=Mirada-Ajena-MD&theme=merko)</a>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1AFF00&height=120&section=footer"/>
-## '╰═══════════════⟬◊⟭═══════════════╯'
+#### '╰═══════════════⟬◊⟭═══════════════╯'
 
 ### :hammer_and_wrench:Mis estudios de programación se basan en estos proyectos:
 
