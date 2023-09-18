@@ -58,7 +58,7 @@
 <summary><b>✅Cuenta oficial y vinculados✅</b></summary>
 
   - [x] **✅ Mangara Oficial**<br>
-  _Para comunicarte con el SubCreador, puedes hacer clik aqui:︎︎︎ [`✅ Sub-Mangara ✅`](https://api.whatsapp.com/send?phone=+5493873687620), para pedir el codigo de instalación automática para termux, o tambien lo puede pedir en `Guardian Bot MD` justamente en este apartado︎︎︎: [`🛡️Guardian Bot MD 🛡️`](https://api.whatsapp.com/send?phone=+5493873650768)._
+  _Para comunicarte con el SubCreador, puedes hacer clik aqui:︎︎︎ [`✅ Sub-Mangara ✅`](https://api.whatsapp.com/send?phone=+5493873687620)
   
   - [x] **¿Cuenta vinculada?**<br>
   _Esta cuenta esta vinculada con la cuenta de "Ego_Oficial_Creator", y con el propio bot de: [`🛡️ Guardian Bot MD 🛡️`](https://api.whatsapp.com/send?phone=+5493873650768)._
