@@ -61,7 +61,7 @@
   _Para comunicarte con el SubCreador, puedes hacer clik aqui:︎︎︎ [`✅ Sub-Mangara ✅`](https://api.whatsapp.com/send?phone=+5493873687620)
   
   - [x] **¿Cuenta vinculada?**<br>
-  _Esta cuenta esta vinculada con la cuenta de "Ego_Oficial_Creator", y con el propio bot de: [`🛡️ Guardian Bot MD 🛡️`](https://api.whatsapp.com/send?phone=+5493873650768)._
+  _Esta cuenta esta vinculada con la cuenta de "Ego_Oficial_Creator", y con el propio bot de: [`🛡️ Guardian Bot MD 🛡️`](https://api.whatsapp.com/send?phone=+5493873388102)._
   </details>
 
 
@@ -89,7 +89,7 @@
   _Para comunicarte con la SubCreadora, puedes hacer clik aqui:︎︎︎ [`🌸 Sub-Amy 🌸`](https://api.whatsapp.com/send?phone=+5493873687620)
   
   - [x] **¿Cuenta vinculada?**<br>
-  _Esta cuenta esta vinculada con la cuenta de "Ego_Oficial_Creator", y con el propio bot de: [`🛡️ Guardian Bot MD 🛡️`](https://api.whatsapp.com/send?phone=+5493873650768)._
+  _Esta cuenta esta vinculada con la cuenta de "Ego_Oficial_Creator", y con el propio bot de: [`🛡️ Guardian Bot MD 🛡️`](https://api.whatsapp.com/send?phone=+5493873388102)._
   </details>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FD75FF&height=120&section=footer"/>
